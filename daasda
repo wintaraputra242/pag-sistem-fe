@@ -1,0 +1,71 @@
+[33mcommit b25369e5539772b9411bc56ddf2de7278a9ed530[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Wintara Putra <wintaraputra242@gmail.com>
+Date:   Sun Jun 2 15:38:17 2024 +0800
+
+    feat: added crud api in page user cabang
+
+[33mcommit a89f5605df0af98f8f508fca59d29a8a42db1637[m
+Author: Wintara Putra <wintaraputra242@gmail.com>
+Date:   Thu May 30 00:49:58 2024 +0800
+
+    feat: added feature edit user in user page
+
+[33mcommit b9bba370dcbe73d273ef475b76f003772e554701[m
+Author: Wintara Putra <wintaraputra242@gmail.com>
+Date:   Thu May 30 00:35:59 2024 +0800
+
+    feat: added feature create edit in user page
+
+[33mcommit 8cfd00f2a819b533d96bc5cb5c52ce0cf187ec24[m
+Author: Wintara Putra <wintaraputra242@gmail.com>
+Date:   Thu May 30 00:14:59 2024 +0800
+
+    feat: added feature create user in user page
+
+[33mcommit 68095a697bcc7c19ba77c185d6a9be3adda3d046[m
+Author: Wintara Putra <wintaraputra242@gmail.com>
+Date:   Tue May 28 23:38:30 2024 +0800
+
+    feat: add api login and fix action logout
+
+[33mcommit 9d19dc1e0008680b47753ed260b2e3fef443c909[m
+Author: Wintara Putra <wintaraputra242@gmail.com>
+Date:   Tue May 28 22:41:36 2024 +0800
+
+    fix: fixed all page after login
+
+[33mcommit bee325c2614dfb4534769b30dd2e04204abe65e0[m
+Author: Wintara Putra <wintaraputra242@gmail.com>
+Date:   Wed May 22 10:07:33 2024 +0800
+
+    fix: fixing .env from repository
+
+[33mcommit 0b1ba65c62d34f9ace3f55a04ae66b1887d6d480[m
+Author: Wintara Putra <wintaraputra242@gmail.com>
+Date:   Wed May 22 10:00:54 2024 +0800
+
+    fix: fixing .env from repository
+
+[33mcommit 1958e05121a19937b7cd018542342abc0fd45242[m
+Author: Wintara Putra <wintaraputra242@gmail.com>
+Date:   Wed May 22 09:58:30 2024 +0800
+
+    fix: remove .env from repository
+
+[33mcommit e2e66eedccc3a67a049368e3be50720ea6ae676d[m
+Author: Wintara Putra <wintaraputra242@gmail.com>
+Date:   Wed May 22 09:55:30 2024 +0800
+
+    fix: fixing gitignore
+
+[33mcommit 9075dd8359ae5a418a341c54da619753eb277660[m
+Author: Wintara Putra <wintaraputra242@gmail.com>
+Date:   Wed May 22 09:48:47 2024 +0800
+
+    project initial
+
+[33mcommit c5b92419dc74118a4b7418b55b17b2e2811dc095[m
+Author: wintaraputra242 <80935382+wintaraputra242@users.noreply.github.com>
+Date:   Wed May 22 08:48:59 2024 +0800
+
+    Initial commit

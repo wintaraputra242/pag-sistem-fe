@@ -1,0 +1,51 @@
+import request from '@/utils/request'
+
+const pathParent = '/user'
+
+export function get(params) {
+  return request({
+    url: pathParent + '/read.php',
+    method: 'get',
+    params
+  })
+}
+
+export function getUserForJadwal(params) {
+  return request({
+    url: pathParent + '/jadwal_user.php',
+    method: 'get',
+    params
+  })
+}
+
+export function getJadwal(params) {
+  return request({
+    url: pathParent + '/jadwal.php',
+    method: 'get',
+    params
+  })
+}
+
+export function create(data) {
+  return request({
+    url: pathParent + '/add.php',
+    method: 'post',
+    data
+  })
+}
+
+export function edit(data) {
+  return request({
+    url: pathParent + '/edit.php',
+    method: 'post',
+    data
+  })
+}
+
+export function remove(data) {
+  return request({
+    url: pathParent + '/delete.php',
+    method: 'post',
+    data
+  })
+}
